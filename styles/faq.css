@@ -1,0 +1,90 @@
+/* FAQ Section */
+.faq-container {
+    background: black;
+    color: white;
+    padding: 60px;
+    text-align: left;
+    max-width: 100%;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+/* FAQs Badge */
+.faq-badge {
+    background: #4b0082;
+    color: white;
+    padding: 5px 15px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
+
+/* Title */
+.faq-title {
+    font-size: 32px;
+    font-weight: bold;
+    color: #a53df5;
+    margin-top: 10px;
+}
+
+/* FAQ List */
+.faq-list {
+    margin-top: 20px;
+}
+
+/* FAQ Item */
+.faq-item {
+    border-bottom: 1px solid #5e5e5e;
+    padding: 15px 0;
+}
+
+/* Question Styling */
+.faq-question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.faq-question:hover {
+    color: #a53df5;
+}
+
+/* Highlighted Question */
+.highlight-question {
+    font-weight: bold;
+    color: #f98806;
+    font-size: 20px;
+}
+
+/* Toggle Button */
+.faq-toggle {
+    background: #5e00a0;
+    color: white;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faq-toggle:hover {
+    background: #a53df5;
+}
+
+/* Answer Styling */
+.faq-answer {
+    font-size: 16px;
+    color: #c0c0c0;
+    margin-top: 10px;
+    line-height: 1.5;
+}
