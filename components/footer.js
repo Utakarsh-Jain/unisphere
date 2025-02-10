@@ -5,8 +5,8 @@ function Footer() {
     <footer className="footer">
 
       <div className="logo">
-        <span className="logo-purple">Stud</span>
-        <span className="logo-orange">ique</span>
+        <span className="logo-purple">Studi</span>
+        <span className="logo-orange">que</span>
       </div>
 
       <p className="created-with">

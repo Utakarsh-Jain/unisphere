@@ -3,24 +3,25 @@
     color: #fff;
     padding: 20px 40px;
     display: flex;
+    margin-top: 50px;
     justify-content: space-between;
     align-items: center;
     font-family: 'Poppins', sans-serif;
   }
 
   .logo {
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 30px;
+    font-weight: 800;
     display: flex;
     align-items: center;
   }
 
   .logo-purple {
-    color: #8b44d9;
+    color: #8a2adf;
   }
 
   .logo-orange {
-    color: #ff6d00;
+    color: #f98806;
   }
 
   .created-with {
@@ -29,7 +30,7 @@
   }
 
   .heart {
-    color: #ff6d00;
+    color: #f98806;
     margin-left: 5px;
   }
 
@@ -39,7 +40,7 @@
 
   .join-us {
     margin: 0 0 10px 0;
-    color: #ff6d00;
+    color: #f98806;
   }
 
   .social-icons {
@@ -51,7 +52,7 @@
   .icon {
     width: 40px;
     height: 40px;
-    background-color: #8b44d9;
+    background-color: #8a2adf;
     border-radius: 8px;
     display: flex;
     justify-content: center;

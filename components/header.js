@@ -6,8 +6,8 @@ function Header() {
     <header className="header">
       <div className="header-left">
         <h1 className="logo">
-          <span style={{ color: '#8b44d9' }}>Stud</span>
-          <span style={{ color: 'orange' }}>ique</span>
+          <span style={{ color: '#8a2adf' }}>Studi</span>
+          <span style={{ color: '#f98806' }}>que</span>
         </h1>
       </div>
       <nav className="header-center">

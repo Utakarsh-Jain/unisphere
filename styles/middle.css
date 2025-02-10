@@ -8,7 +8,7 @@
 .middle-heading {
     font-size: 42px;
     font-weight: bold;
-    color: #6a0dad;
+    color: #8a2adf;
 }
 
 .highlight-orange {
@@ -17,7 +17,7 @@
 
 /* Quote Section */
 .quote-box {
-    background: #6a0dad;
+    background: #8a2adf;
     padding: 30px;
     border-radius: 10px;
     margin: 20px auto;
@@ -91,7 +91,7 @@
 
 /* Individual Step Box */
 .step {
-    background: #6a0dad;
+    background: #8a2adf;
     border:#f98806 solid 1px;
     padding: 20px;
     border-radius: 12px;
