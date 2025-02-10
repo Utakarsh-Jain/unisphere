@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image"; // Use next/image for optimized image handling
-import "../styles/middle.css";
 import step1 from "../public/step1.png";
 import step2 from "../public/step2.png";
 import step3 from "../public/step3.png";
