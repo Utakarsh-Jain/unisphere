@@ -18,17 +18,21 @@ function Footer() {
         <div className="social-icons">
 
           <div className="icon">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-              alt="WhatsApp"
-            />
+            <a href="https://chat.whatsapp.com/EGvVrxAA9qI3p66W8g2OIO" target="_blank" rel="noopener noreferrer">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+                alt="WhatsApp"
+              />
+            </a>
           </div>
 
           <div className="icon">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-              alt="Instagram"
-            />
+            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+                alt="Instagram"
+              />
+            </a>
           </div>
         </div>
       </div>
