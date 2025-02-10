@@ -27,7 +27,7 @@ function Footer() {
           </div>
 
           <div className="icon">
-            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/studique.in/" target="_blank" rel="noopener noreferrer">
               <img
                 src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
                 alt="Instagram"
